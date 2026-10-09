@@ -1,0 +1,6 @@
+{
+  "name": "Kost Griya Nirmala",
+  "description": "Website resmi Kost Griya Nirmala dengan info kamar, ketersediaan realtime, fasilitas, survey lokasi, reservasi online, dan panel admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
